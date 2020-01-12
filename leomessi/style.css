@@ -1,0 +1,146 @@
+body
+{
+	background-image: url(wp2544767-messi-4k-wallpapers.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: 1540px 950px;
+	background-attachment: scroll;	
+} 
+.l
+{
+	color: white;
+	font-family: 'Orbitron', sans-serif;
+	font-size:30px;
+	position: absolute ;
+	top: 200px;
+	left: 100px;
+	letter-spacing: 50px; 
+}
+.a img
+{
+	position: absolute;
+	top: 840px;
+	left:20px;
+	width: 100px;
+	height: 100px;
+}
+.b table
+{
+	width: 60%;
+	position: absolute;
+	top: 910px ;
+	left: 550px;
+	color: white;
+	font-family: 'Cabin', sans-serif;
+	font-size: 30px;
+	text-align: right;
+}
+.b a
+{
+	color: white;
+	text-decoration: none;
+}
+.b a:hover
+{
+	color: grey;
+	font-size: larger;
+}
+.logo1 img
+{
+	margin: 5px;
+	height: 30px;
+	width: 30px; 
+}
+.logo2 img
+{
+	margin: 5px;
+	height: 30px;
+	width: 30px; 
+}
+.logo3 img
+{
+	margin: 5px;
+	height: 30px;
+	width: 30px; 
+}
+.logo1 img:hover
+{
+	height: 35px;
+	width: 35px;
+}
+.logo2 img:hover
+{
+	height: 35px;
+	width: 35px;
+}
+.logo3 img:hover
+{
+	height: 35px;
+	width: 35px;
+}
+.logo
+{
+	position: absolute;
+	top: 30px;
+}
+.fcb img
+{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	top: 50px;
+	right: 50px;
+}
+.fcb img:hover
+{
+	height: 110px;
+	width: 110px;
+}
+.quote
+{
+	position: absolute;
+	bottom: 80px;
+	right: 100px;
+	color: grey;
+	font-size: 25px;
+	font-family: 'Special Elite', cursive;
+
+}
+.x
+{
+	font-family: 'Courier Prime', monospace;
+	font-size: 20px;
+	color: grey;
+	text-align: right; 
+	position: absolute;
+	bottom:50px;
+	right: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
